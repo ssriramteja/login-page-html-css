@@ -131,7 +131,6 @@ body{
     width: 50%;
     height: 100%;
 }
-//Responsiveness
 @media (max-width: 991px){
     .login-image{
         display: none;
